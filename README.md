@@ -1,6 +1,6 @@
 # Online Product Store using MERN Stack
 
-[![View Live Project](https://mern-product-store-wx68.onrender.com)
+View Live Project: https://mern-product-store-wx68.onrender.com
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application that serves as a simple product management store. It allows users to perform CRUD (Create, Read, Update, Delete) operations on products. The frontend is built with React and Vite, styled with Chakra UI, and uses Zustand for state management. The backend is an Express server connected to a MongoDB database.
 
